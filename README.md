@@ -1,6 +1,6 @@
 # ECE443 Speech and Audio Processing
 
-**Author:** Nikos Mavros (AEM: 03741)
+**Author:** Nikos Mavros
 **Institution:** University of Thessaly, Department of Electrical and Computer Engineering
 
 ## Description
