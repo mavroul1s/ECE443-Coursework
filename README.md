@@ -1,13 +1,15 @@
 # ECE443 Speech and Audio Processing
 
-[cite_start]**Author:** Nikos Mavros (AEM: 03741) [cite: 4]
-[cite_start]**Institution:** University of Thessaly, Department of Electrical and Computer Engineering [cite: 5]
+**Author:** Nikos Mavros (AEM: 03741)
+**Institution:** University of Thessaly, Department of Electrical and Computer Engineering
 
 ## Description
-This repository contains the coursework and assignments for the ECE443 Speech and Audio Processing course. The projects within explore core concepts of signal analysis, frequency-domain representations, and time-domain modifications. By working through spectrogram analysis, source-filter modeling, and audio synthesis, this repository serves as a practical exploration of signals and systems. These fundamental DSP concepts provide a necessary groundwork for further research into advanced generative AI models and machine learning applications in the audio domain.
+
+This repository contains the coursework and assignments for the ECE443 Speech and Audio Processing course. The projects explore fundamental concepts in signal analysis, frequency-domain representations, and time-domain modifications, providing a practical foundation in digital signal processing (DSP). This repository serves as a comprehensive portfolio of audio processing techniques, establishing the algorithmic groundwork needed for advanced studies in generative AI and machine learning within the audio domain.
 
 ## Repository Structure
 
+```text
 ECE443_Speech_and_Audio_Processing/
 |-- README.md
 |-- Assignment_1/
@@ -46,7 +48,7 @@ ECE443_Speech_and_Audio_Processing/
 |   |-- presentation/
 |       |-- good_vibrations.pdf
 
----
+```
 
 ## Assignment 1: Spectrogram Analysis and Time-Domain Modifications
 
