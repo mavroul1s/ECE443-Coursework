@@ -73,7 +73,7 @@ The second part involves recording the word "apa", segmenting it, and modifying 
 * **Impulsive Segments:** The consonant part ("p") appears as a short, low-energy, impulsive segment.
 
 **Visualizations:**
-![Slowed-Down Signal Analysis](Assignment_1/images/apa_slowed_edited.png)
+![Slowed-Down Signal Analysis](Assignment_1/images/apa_slowed_edited.jpg)
 
 ---
 
