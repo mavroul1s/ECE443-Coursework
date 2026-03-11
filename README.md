@@ -63,10 +63,10 @@ The first part of the assignment involves generating and analyzing narrowband an
 * [cite_start]**Speaker Identification:** Based on the lower F0 and lower formant frequencies, sample 2 is identified as a male speaker, while sample 1 is identified as a female speaker[cite: 78].
 
 **Image Links:**
-* [View Narrowband Spectrogram for Sample 1](Assignment_1/images/narrowband1edited.png)
-* [View Wideband Spectrogram for Sample 1](Assignment_1/images/wideband1edited.png)
-* [View Narrowband Spectrogram for Sample 2](Assignment_1/images/narrowband2editedd.png)
-* [View Wideband Spectrogram for Sample 2](Assignment_1/images/wideband2edited.png)
+* [View Narrowband Spectrogram for Sample 1](Assignment_1/images/narrowband1edited.jpg)
+* [View Wideband Spectrogram for Sample 1](Assignment_1/images/wideband1edited.jpg)
+* [View Narrowband Spectrogram for Sample 2](Assignment_1/images/narrowband2editedd.jpg)
+* [View Wideband Spectrogram for Sample 2](Assignment_1/images/wideband2edited.jpg)
 
 ### Question 2: Time-Domain Analysis of Speech Segments
 The second part involves recording the word "apa", segmenting it, and modifying its playback speed. The MATLAB script `Assigment1_question2.m` handles the recording, plotting, and applying a slow-down factor of 2 to the signal.
@@ -76,7 +76,7 @@ The second part involves recording the word "apa", segmenting it, and modifying 
 * [cite_start]**Impulsive Segments:** The consonant part ("p") appears as a short, low-energy, impulsive segment[cite: 162].
 
 **Image Links:**
-* [View Slowed-Down Signal Analysis](Assignment_1/images/apa_slowed_edited.png)
+* [View Slowed-Down Signal Analysis](Assignment_1/images/apa_slowed_edited.jpg)
 
 ---
 
